@@ -39,7 +39,7 @@
     "axios": "^0.19.0",
     "dva-core": "^1.4.0",
     "dva-loading": "^3.0.6",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "moment": "^2.24.0",
     "nerv-devtools": "^1.4.0",
     "nervjs": "^1.4.0",
