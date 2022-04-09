@@ -40,7 +40,7 @@
     "dva-core": "^1.4.0",
     "dva-loading": "^3.0.6",
     "lodash": "^4.17.11",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "nerv-devtools": "^1.4.0",
     "nervjs": "^1.4.0",
     "react": "^16.8.6",
